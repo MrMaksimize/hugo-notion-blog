@@ -1,0 +1,6 @@
+[submodule "hugo-theme-pixyll"]
+	path = hugo-theme-pixyll
+	url = git@github.com:azmelanar/hugo-theme-pixyll.git
+[submodule "themes/hugo-notepadium"]
+	path = themes/hugo-notepadium
+	url = git@github.com:cntrump/hugo-notepadium.git
