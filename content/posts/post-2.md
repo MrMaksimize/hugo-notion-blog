@@ -16,5 +16,3 @@ Pulque Farts
 💩
 
 - [ ]  Eat Candy
-
-[Hello Table](Post%202/Hello%20Table.csv)
