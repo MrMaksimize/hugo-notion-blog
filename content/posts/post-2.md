@@ -17,4 +17,4 @@ Pulque Farts
 
 - [ ]  Eat Candy
 
-[Hel](Post%202/Hel.csv)
+[Hello Table](Post%202/Hello%20Table.csv)
