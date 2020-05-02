@@ -1,7 +1,6 @@
 ---
 title: "Post 1"
 draft: false
-date_published: "2020-05-01"
 category: "One"
 name: "Post 1"
 ---
